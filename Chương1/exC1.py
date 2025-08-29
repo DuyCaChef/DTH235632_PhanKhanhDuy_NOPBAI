@@ -22,11 +22,11 @@ import math_libs
 print(math_libs.add(2, 6))
 
 #module1.py
-import module1
+import Chương1.module1 as module1
 print(module1.question)
 print(module1.answer)
 
 #module2.py
-import module2
+import Chương1.module2 as module2
 print(module2.question)
 print(module2.answer)
